@@ -1,0 +1,4 @@
+101 "Standard" 5000
+102 "Deluxe" 8000
+201 "Executive" 12000
+301 "Suite" 20000
